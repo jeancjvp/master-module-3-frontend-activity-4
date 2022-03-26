@@ -1,0 +1,66 @@
+.gray {
+    color: gray;
+    font-size: 0.92rem;
+}
+
+.post {
+    min-width: 18rem;
+    height: 32rem;
+}
+
+.img-fluid {
+    height: 16rem;
+}
+
+.navbar-a {
+    color: black;
+    text-decoration: none;
+}
+
+.like {
+    color: gray;
+    background-color: #fff;
+    border-color: gray;
+}
+
+.like:hover {
+    color: #fff;
+    background-color: #bb2d3b;
+    border-color: #b02a37;
+}
+
+#form-container {
+    max-width: 30rem;
+    margin: auto;
+}
+
+#form-contact-container {
+    max-width: 50rem;
+    margin: auto;
+}
+
+#profile {
+    margin: auto;
+    max-width: 40rem;
+}
+
+.profile-img {
+    height: 12rem;
+}
+
+.contact-btn {
+    width: 100%;
+}
+
+.alert {
+    width: fit-content;
+}
+
+.show {
+    display: block;
+    margin: auto;
+}
+
+.unshow {
+    display: none !important;
+}
